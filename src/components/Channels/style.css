@@ -1,0 +1,23 @@
+.channel-container {
+    display: flex;
+    background-color: azure;
+  }
+  
+  
+  .channel-container__col {
+    min-width: 35rem;
+  }
+  
+  .card {
+    background-color: white;
+    margin: 2rem;
+    padding: 1rem 2rem;
+  }
+  
+  .card__title {
+    font-weight: 700;
+  }
+  .card__contents {
+    padding: 1rem 0;
+  }
+  

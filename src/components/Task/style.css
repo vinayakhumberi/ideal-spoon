@@ -1,0 +1,9 @@
+.task-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: cornsilk;
+    padding: 0.5rem 0.75rem;
+  }
+  .task-container button {
+    cursor: pointer;
+  }
